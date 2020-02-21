@@ -1,5 +1,5 @@
 # Algo
- These are my implementations of many of the basic algorithms and data structures.
+ There are my implementations of many basic algorithms and data structures.
 * [Лабораторная работа 1(решения)](Sem1/Lab1/)
   * [Лабораторная работа 1(условие)](Sem1/Lab1/problems1.pdf)
 * [Лабораторная работа 2](Sem1/Lab2/)
